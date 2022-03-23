@@ -1,8 +1,3 @@
-![banner](./assets/banner.png)
-<br>
-[ManuelRamos27](https://github.com/ManuelRamos27)  
-
-<br>
 <h1>How to use</h1> 
 <br>
 <h2>Generate a name</h2>
